@@ -1,4 +1,4 @@
-FROM ninecrow/docker-centos6-jdk8:1.0.2
+FROM ninecrow/centos6-jdk8:1.0.0
 
 USER root
 
